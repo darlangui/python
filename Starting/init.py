@@ -1,3 +1,4 @@
+import random
 pais = '10'
 type(pais)
 
@@ -44,5 +45,6 @@ while(i):
         i = False
         break
     if(i == False):
+        print('Isso sim é algo {}' .format(i))
         continue
 
