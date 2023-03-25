@@ -148,11 +148,8 @@ def carrega_palavra_secreta():
         palavras.append(linha)
 
     arquivo.close()
-
     numero = random.randrange(0, len(palavras))
     palavra_secreta = palavras[numero].upper()
     return palavra_secreta
 
 
-if(__name__ == "__main__"):
-    jogar()
