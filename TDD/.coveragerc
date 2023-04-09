@@ -1,4 +1,5 @@
 [run]
+source = ./codigo
 
 [report]
 exclude_lines =
