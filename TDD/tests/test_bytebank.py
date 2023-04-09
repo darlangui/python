@@ -12,7 +12,6 @@ class TestClass:
 
         assert resultado == esperado
 
-
     def test_quando_sobrenome_recebe_Lucas_Carvalho_deve_retornar_Carvalho(self):
         entrada = 'Lucas Carvalho'
         esperada = 'Carvalho'
