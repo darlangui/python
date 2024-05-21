@@ -1,2 +1,2 @@
 # Python
-Tudo que aprendi e estou aprendendo sobre Python
+Learning Activities/Projects in Python
